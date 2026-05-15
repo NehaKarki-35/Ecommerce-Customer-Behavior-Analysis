@@ -1,0 +1,27 @@
+Insights:
+
+Customer churn is not caused by a single factor — it is a gradual behavioral process influenced by satisfaction, engagement, pricing sensitivity, support experience, loyalty effectiveness, and purchasing behavior.
+
+1. Customers with high engagement and satisfaction are more loyal, active, and likely to continue purchasing regularly.
+
+2. Low engagement, long inactivity, and declining satisfaction strongly indicate high churn risk among customers.
+
+3. Many customers frequently browse products but place few orders, showing conversion barriers such as pricing or checkout issues.
+
+4. High support ticket volumes often reduce customer satisfaction and increase churn probability.
+
+5. Effective customer support can still retain dissatisfied customers, creating the Support Paradox Effect.
+
+6. Customers heavily dependent on discounts are usually less loyal and more likely to churn when promotions stop.
+
+7. Excessive discount dependency creates a Discount Addiction Loop where customers buy only during offers.
+
+8. Loyalty programs improve retention, but loyalty alone cannot prevent churn without good customer experience.
+
+9. Highly price-sensitive customers are more unstable and can easily switch to competitors when engagement decreases.
+
+10. Customer churn is generally a slow process caused by declining engagement, reduced purchases, and growing dissatisfaction over time.
+
+11. High return rates, poor support experience, and low satisfaction scores are major contributors to customer churn.
+
+12. Overall, customer retention depends on strong engagement, satisfaction, personalized experience, quality support, and value-driven relationships rather than discounts alone.
